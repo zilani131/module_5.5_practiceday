@@ -3,7 +3,7 @@ int main()
 {
     int i;
     printf("Enter your number: ");
-    scanf("%d");
+    scanf("%d",&i);
     if (i>=80)
     {
         printf("A+",i);
